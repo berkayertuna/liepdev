@@ -1,0 +1,49 @@
+{
+    "prefix": ".",
+	"token": "OTg1NTM2MzAwNDgyNDI4OTM4.Gl0mr9.-9SFgvu8Lg_2zOpWKgP34TwXf45z-JhXd-ujK0",
+    "isim": "Astra Network",
+    "logchannel": "985618897304698950",
+    "gif": "https://cdn.discordapp.com/attachments/771804217890701333/985619958216163428/standard_20.gif",
+    "botungirecegikanal": "985537990883414096",
+  
+    "adminrol": "985527641497038858",   
+    "kurucu":"985527636837138512",
+    "basvurkategori":"985538311160496188",
+    "onayred":"985538432006774804",
+    "yetkililog":"985538470405615616",
+    "everyoneid":"985319389949747230",
+    "yetkilirolid":"985527641497038858",
+    "sunucuid":"985319389949747230",
+  
+    "kayıtuye":"985527665572347914",
+    "kayıtkayıtsız":"985529218521772094",
+	"kayıteventbildirim":"985529735452950558",
+	"kayıtduyurubildirim": "985529827069149184",
+	"kayıtgüncellemebildirim": "985529882861789184",
+	"kayıtkampanyabildirim": "985532087505416262",
+    "kayıtresim":"https://i.hizliresim.com/jc5koek.png",
+    "kayıtembedrenk":"BLUE",
+    "kayıtmesaj":"Kayıt olan herkes kuralları okumuş sayılacaktır. Ayrıca gerekli olan rolleri alınız.",
+  
+    "serverip": "play.astranw.xyz",
+    "serverport": "25565",
+    "serverembedrenk": "BLUE",
+  
+    "yardımembedrenk": "BLUE",
+    "yardımmesaj": "Aşağıdaki Katagorilerden Seçebilirsiniz.",
+  
+    "aktifbakımipembedrenk": "BLUE",
+  
+    "basvurusoru1": "**İsmini Ve Yaşını Öğrenebilirmiyim?**",
+    "basvurusoru2": "**Günde Kaç Saat Aktifsiniz?**",
+    "basvurusoru3": "**Başka Sunucuda Yetkili Oldunuz Mu?**",
+    "basvurusoru4": "**Minecraft Platformunda Kaç Senedir Bulunuyorsunuz?**",
+    "basvurusoru5": "**Oyun İçi isminiz:**",
+    "basvurusoru6": "**Neden Astra Network?**",
+    "basvuruembedrenk": "BLUE",
+  
+    "ticketembedrenk": "BLUE",
+  
+    "puansistemiembedrenk": "BLUE"
+      
+}
